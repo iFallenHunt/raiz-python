@@ -1,4 +1,7 @@
 # second-degree
+
+translated and working code 
+
 <s>I am working on converting this code to python
 
 I was able to convert the pseudo-code to python, but I can't do the calculation.
